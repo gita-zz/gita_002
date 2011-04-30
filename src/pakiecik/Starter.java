@@ -7,7 +7,12 @@ public class Starter {
     }
     
     public Starter() {
-        System.out.println(" -> Startujemy");
+        System.out.println(" -> Startujemy :P");
+        test();
+    }
+    
+    private void test() {
+        System.out.println(" -> taka sobie prywatna funkcja");
     }
     
     
