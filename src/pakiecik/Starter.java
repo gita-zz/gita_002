@@ -15,7 +15,9 @@ public class Starter {
         System.out.println(" -> taka sobie prywatna funkcja");
     }
     
-    
+    private String toStr() {
+	     return " -> jest OK";
+    } 
     
     
 }
